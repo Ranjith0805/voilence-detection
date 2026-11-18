@@ -39,8 +39,8 @@ Split: 70% train, 15% validation, 15% test.
 ## ✅ Results
 | Model | Test Accuracy |
 |---|---|
-| CNN + Bi-LSTM (ours) | **XX%** |
-| CNN only (baseline) | XX% |
+| CNN + Bi-LSTM (ours) | **95.9%** |
+| CNN only (baseline) | 96.9% |
 
 ## 🛠️ Tech used
 Python · TensorFlow/Keras · OpenCV · TensorFlow Hub · Gradio · Google Colab
